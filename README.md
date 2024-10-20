@@ -1,7 +1,11 @@
 # Local ChatGPT with Ollama
 
 ![Illustration](illustration.png)
-![[AI Talks] Running ChatGPT Lokal dengan Ollama Mistral](https://youtu.be/mqE_Gs-kHaM)
+
+
+[![AI Talks: Running ChatGPT Lokal dengan Ollama Mistral](https://img.youtube.com/vi/mqE_Gs-kHaM/0.jpg)](https://youtu.be/mqE_Gs-kHaM)
+
+Click the image above or [here](https://youtu.be/mqE_Gs-kHaM) to watch the YouTube tutorial on running ChatGPT locally with Ollama Mistral.
 
 
 This project implements a local chatbot using the Mistral model through Ollama, providing a ChatGPT-like experience without relying on external API services. The application is built with Streamlit, offering an intuitive web interface for interacting with the AI model.
