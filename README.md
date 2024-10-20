@@ -1,6 +1,6 @@
 # Local ChatGPT with Ollama
 
-![Illustration](illustration.png)
+<!-- ![Illustration](illustration.png) -->
 
 
 [![AI Talks: Running ChatGPT Lokal dengan Ollama Mistral](https://img.youtube.com/vi/mqE_Gs-kHaM/0.jpg)](https://youtu.be/mqE_Gs-kHaM)
