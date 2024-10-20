@@ -2,6 +2,8 @@
 
 This project implements a local chatbot using the Mistral model through Ollama, providing a ChatGPT-like experience without relying on external API services. The application is built with Streamlit, offering an intuitive web interface for interacting with the AI model.
 
+![Illustration](illustration.png)
+
 ## Features
 
 - Local AI model execution using Ollama
